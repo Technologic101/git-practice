@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  max-width: 600px;
+}
+
+h1 {
+  font-style: italic;
+}
+
+ul li {
+  color: blue;
+}
