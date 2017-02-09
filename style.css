@@ -1,6 +1,8 @@
 body {
   text-align: center;
   max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
@@ -9,4 +11,8 @@ h1 {
 
 ul li {
   color: blue;
+}
+
+li.checked {
+  text-decoration: line-through;
 }
